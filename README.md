@@ -93,7 +93,11 @@ open_to: collaborations, projets freelance, discussions tech
 
 <br/><br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=IyStix&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IyStix&theme=tokyonight" alt="Profile details"/>
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IyStix&theme=tokyonight&utcOffset=1" alt="Productive time"/>
 
 </div>
 
